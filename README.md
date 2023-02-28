@@ -1,6 +1,6 @@
 # Official baringo for life website
 
-## '''⚠ Under dev'''
+## ⚠ Under development 🛠
 
 # Vue 3 + TypeScript + Vite
 
